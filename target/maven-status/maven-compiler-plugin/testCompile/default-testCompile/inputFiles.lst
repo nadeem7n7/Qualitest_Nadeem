@@ -1,4 +1,4 @@
-/Users/nadeemafsar/IdeaProjects/Qualitest/src/test/java/Runner/TestRunner.java
-/Users/nadeemafsar/IdeaProjects/Qualitest/src/test/java/pageObjects/HomePage.java
-/Users/nadeemafsar/IdeaProjects/Qualitest/src/test/java/pageObjects/CartPage.java
-/Users/nadeemafsar/IdeaProjects/Qualitest/src/test/java/stepDefinitions/AddToCart.java
+/Users/nadeemafsar/Documents/Qualitest_Nadeem/src/test/java/Runner/TestRunner.java
+/Users/nadeemafsar/Documents/Qualitest_Nadeem/src/test/java/pageObjects/CartPage.java
+/Users/nadeemafsar/Documents/Qualitest_Nadeem/src/test/java/pageObjects/HomePage.java
+/Users/nadeemafsar/Documents/Qualitest_Nadeem/src/test/java/stepDefinitions/AddToCart.java

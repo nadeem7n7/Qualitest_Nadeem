@@ -50,6 +50,7 @@ public class AddToCart extends TestRunner {
 
         cartPage.removeItem(lowestPosition);
 
+
     }
 
 

@@ -56,7 +56,8 @@ public class CartPage {
     public void removeItem(int pos){
         List <WebElement> Elements = driver.findElements(By.className("remove"));
         Elements.get(pos).click();
-        sleep(1000);
+        sleep(2000);
+
 
 
     }
